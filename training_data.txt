@@ -1,0 +1,4 @@
+I/PRON like/VERB apples/NOUN
+She/PRON eats/VERB food/NOUN
+He/PRON likes/VERB mangoes/NOUN
+They/PRON play/VERB cricket/NOUN
